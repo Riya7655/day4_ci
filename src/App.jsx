@@ -12,7 +12,7 @@ function App() {
         <div className="card">
           <div className="icon">⚙️</div>
 
-          <h1>React CI/CD Demo</h1>
+          <h1>React-CI/CD Demo</h1>
 
           <p>
             This is a simple React frontend created for practicing
